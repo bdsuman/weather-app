@@ -3,5 +3,5 @@
 You can check the weather anywhere in the world and in your location  
 You can also choose the display unit between Fahrenheit and Celsius
 
-
-https://weather-project-by-vniacsta.netlify.app/
+Live Link: 
+https://weather-app-bdsuman.netlify.app/
